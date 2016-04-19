@@ -9,3 +9,9 @@ public class HelloWorld {
 
 }
 
+public void addedInMaster()
+{
+}
+
+
+
