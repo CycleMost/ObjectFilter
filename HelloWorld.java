@@ -13,5 +13,8 @@ public void addedInMaster()
 {
 }
 
-
+public void addedInMaster2()
+{
+	// This is added in master and will be merged into dev.
+}
 
