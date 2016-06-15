@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Condition>
+  <And>
+    <ValueCondition Operator="equals" Property="Name" PropertyType="String" Value="Dave"/>
+    <ValueCondition Operator="equals" Property="Age" PropertyType="Integer" Value="42"/>
+    <Or>
+      <ValueCondition Operator="startsWith" Property="LastName" PropertyType="String" Value="Smith"/>
+      <ValueCondition Operator="endsWith" Property="LastName" PropertyType="String" Value="Smith"/>
+    </Or>
+  </And>
+</Condition>
