@@ -1,13 +1,16 @@
 package com.cyclemost.objectfilter;
 
-public static void main(String args[]) {
-    String username = "username";
-    String password = "password";
-    String secret_key = "asdlkj13879asdfkjgk";
+public class Program {
 
-    authenticate(username, password, secret_key);
-}
+    public static void main(String args[]) {
+        String username = "username";
+        String password = "password";
+        String secret_key = "asdlkj13879asdfkjgk";
 
-public static boolean authenticate(String username, String password, String secret_key) {
-    return true;
+        authenticate(username, password, secret_key);
+    }
+
+    public static boolean authenticate(String username, String password, String secret_key) {
+        return true;
+    }
 }
