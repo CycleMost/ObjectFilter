@@ -1,7 +1,7 @@
 package com.cyclemost.objectfilter;
 
 import java.util.Map;
-import javax.xml.bind.annotation.XmlRootElement;
+import jakarta.xml.bind.annotation.XmlRootElement;
 
 /** Represents an Or condition. Returns true if at least one
  * child condition evaluates to true.

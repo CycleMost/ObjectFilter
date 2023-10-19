@@ -1,6 +1,6 @@
 package com.cyclemost.objectfilter;
 
-import javax.xml.bind.JAXBException;
+import jakarta.xml.bind.JAXBException;
 import org.junit.Test;
 
 

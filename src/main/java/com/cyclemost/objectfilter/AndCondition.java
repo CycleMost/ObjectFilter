@@ -1,6 +1,6 @@
 package com.cyclemost.objectfilter;
 
-import javax.xml.bind.annotation.XmlRootElement;
+import jakarta.xml.bind.annotation.XmlRootElement;
 
 /** 
  * Represents an And condition. 
